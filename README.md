@@ -6,7 +6,7 @@ It involves creating a DataFrame to aggregate player-level statistics into team-
 
 ## Tasks Completed:
 
-Task 1: Create a Team DataFrame:
+## Task 1: Create a Team DataFrame:
 
 1. Aggregated player-level data to create a DataFrame containing team-level statistics.
 2. Calculated the sum of numerical columns (excluding 'Games Played') for each team.
